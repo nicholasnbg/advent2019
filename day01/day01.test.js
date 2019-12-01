@@ -1,4 +1,4 @@
-const {fuelRequired} = require("./day01")
+const {fuelRequired, recurseFuel} = require("./day01")
 
 test('fuelRequired should', () => {
     expect(fuelRequired(12)).toBe(2);
