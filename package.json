@@ -1,0 +1,17 @@
+{
+  "name": "advent2019",
+  "version": "1.0.0",
+  "description": "My advent of code submissions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nick Gray",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
